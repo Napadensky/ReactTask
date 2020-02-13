@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Napadensky/reactTask.git/static/css/main.69dec69d.chunk.css",
+    "main.js": "/Napadensky/reactTask.git/static/js/main.73dd6665.chunk.js",
+    "main.js.map": "/Napadensky/reactTask.git/static/js/main.73dd6665.chunk.js.map",
+    "runtime-main.js": "/Napadensky/reactTask.git/static/js/runtime-main.f8122b66.js",
+    "runtime-main.js.map": "/Napadensky/reactTask.git/static/js/runtime-main.f8122b66.js.map",
+    "static/js/2.b1a7eed1.chunk.js": "/Napadensky/reactTask.git/static/js/2.b1a7eed1.chunk.js",
+    "static/js/2.b1a7eed1.chunk.js.map": "/Napadensky/reactTask.git/static/js/2.b1a7eed1.chunk.js.map",
+    "index.html": "/Napadensky/reactTask.git/index.html",
+    "precache-manifest.7d0de1007f7ca4cd8b1078f3057dfddd.js": "/Napadensky/reactTask.git/precache-manifest.7d0de1007f7ca4cd8b1078f3057dfddd.js",
+    "service-worker.js": "/Napadensky/reactTask.git/service-worker.js",
+    "static/css/main.69dec69d.chunk.css.map": "/Napadensky/reactTask.git/static/css/main.69dec69d.chunk.css.map",
+    "static/js/2.b1a7eed1.chunk.js.LICENSE.txt": "/Napadensky/reactTask.git/static/js/2.b1a7eed1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8122b66.js",
+    "static/js/2.b1a7eed1.chunk.js",
+    "static/css/main.69dec69d.chunk.css",
+    "static/js/main.73dd6665.chunk.js"
+  ]
+}
